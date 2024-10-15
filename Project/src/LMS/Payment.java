@@ -10,10 +10,6 @@ public class Payment {
      int num = sc.nextInt();
      System.out.println("Here the first value" + num );
 
-     git commit will help to recognise that something is going to come
-
-             what do you after commit the code ?
-              Push the code to my repo >> Payment Class Added
 
 
  }
